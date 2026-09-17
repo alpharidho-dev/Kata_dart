@@ -1,0 +1,10 @@
+# robots.txt — KATA (Aplikasi Blog)
+# Hanya halaman publik yang boleh dijelajahi crawler.
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /register
+Disallow: /profile
+
+# Ganti URL di bawah dengan domain asli setelah aplikasi di-hosting.
+Sitemap: https://kata.example.com/sitemap.xml

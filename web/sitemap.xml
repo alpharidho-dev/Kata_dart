@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml — KATA (Aplikasi Blog)
+  PENTING: ganti https://kata.example.com dengan domain asli setelah di-hosting,
+  dan sesuaikan tanggal lastmod saat ada perubahan besar.
+  Aplikasi ini SPA, jadi yang terindeks adalah halaman masuk (entry point).
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://kata.example.com/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

@@ -1,0 +1,38 @@
+{
+    "name": "KATA — Aplikasi Blog",
+    "short_name": "KATA",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0A0A0A",
+    "theme_color": "#3B82F6",
+    "description": "Aplikasi blog mobile untuk menulis, membaca, dan mengelola artikel lengkap dengan hashtag, komentar, dan profil penulis.",
+    "lang": "id",
+    "dir": "ltr",
+    "orientation": "portrait-primary",
+    "categories": ["social", "news", "productivity"],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
